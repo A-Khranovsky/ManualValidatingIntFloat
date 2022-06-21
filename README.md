@@ -1,5 +1,5 @@
 ## Vocation
-Code will show how it is able to use PHP7's functions filter_input(), filter_var to validate credentials on integer and float type, show how
+Code will show how it is able to use PHP7's functions filter_input(), filter_var() to validate credentials on integer and float type, show how
 can be used:
  * callback function,
  * switch operator instead of if-elseif-elsif..,
